@@ -35,10 +35,10 @@ REACT’s insights have been featured in leading journals and major media outlet
 
 - **Greenhouse Gas–Driven Thermospheric Contraction**  
   *Nature Sustainability* (2025)  
-  [📄 Read the paper](https://www.nature.com/articles/s41893-025-01512-0?utm_source=chatgpt.com) | [📰 Forbes coverage](https://www.forbes.com/sites/brucedorminey/2025/03/12/climate-change-is-even-wreaking-havoc-on-satellites-in-low-earth-orbit/?utm_source=chatgpt.com)  
-  > Rising CO₂ is shrinking the upper atmosphere, reducing drag and **lowering the long-term satellite carrying capacity of LEO**.
+  [📄 Read the paper](https://www.nature.com/articles/s41893-025-01512-0) | [📰 Forbes coverage](https://www.forbes.com/sites/brucedorminey/2025/03/12/climate-change-is-even-wreaking-havoc-on-satellites-in-low-earth-orbit) | [📰 MIT News coverage](https://news.mit.edu/2025/study-climate-change-will-reduce-number-satellites-safely-orbit-space-0310)  
+  > CO₂ emissions are shrinking the upper atmosphere, reducing drag and **lowering the long-term satellite carrying capacity of LEO**.
 
 - **☀Gannon Geomagnetic Storm & Satellite Mass Migration**  
   *Journal of Spacecraft and Rockets* (2024)  
-  [📄 Read the paper (arXiv)](https://arxiv.org/abs/2406.08617?utm_source=chatgpt.com) | [📰 Space.com story](https://www.space.com/may-solar-storm-largest-mass-migration-satellites?utm_source=chatgpt.com)  
-  > Documented the **largest coordinated satellite maneuvers in history** during a major geomagnetic storm, exposing vulnerabilities in drag forecasting and collision risk assessment.
+  [📄 Read the paper](https://arc.aiaa.org/doi/10.2514/1.A36164) | [📰 Space.com story](https://www.space.com/may-solar-storm-largest-mass-migration-satellites)| [📰 Space News story]([https://www.space.com/may-solar-storm-largest-mass-migration-satellites?utm_source=chatgpt.com](https://spacenews.com/geomagnetic-storms-cause-mass-migrations-of-satellites/))  
+  > Documented the **largest satellite mass migration in history** during a major geomagnetic storm, exposing vulnerabilities in atmospheric drag forecasting and collision risk assessment.
