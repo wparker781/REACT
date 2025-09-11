@@ -1,9 +1,7 @@
-# REACT
-Response Estimation and Analysis for Correlated satellite Trajectories
+# REACT: Repurposing Public Satellite Trajectory Data for Space Safety and Science
 
 <img width="2368" height="1082" alt="image" src="https://github.com/user-attachments/assets/9729d976-934d-4cc4-bacb-e8a75aa01eee" />
 
-# REACT: Repurposing Public Satellite Trajectory Data for Space Safety and Science
 The REACT framework (Response Estimation and Analysis using Correlated Trajectories) is a novel approach to space domain awareness and upper-atmosphere science that leverages publicly available satellite trajectory data (TLEs) to generate actionable insight into the state of low Earth orbit (LEO). Rather than treating each satellite as an isolated object, REACT learns the correlated dynamical response of thousands of satellites and debris objects to both natural forces (e.g., thermospheric density fluctuations from geomagnetic storms) and anthropogenic actions (e.g., orbit-raising maneuvers).
 
 At its core, REACT applies statistical estimation and Gaussian conditioning across the full tracked catalog of space objects. It uses “passive” debris populations as distributed sensors to infer a consensus drag response to space weather, which provides a robust baseline against which individual satellites can be compared. Objects deviating significantly from this baseline can be flagged as potentially maneuvering, improving transparency in satellite operations and enabling more reliable collision-avoidance planning.
