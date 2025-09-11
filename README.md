@@ -43,4 +43,11 @@ REACT’s insights have been featured in leading journals and major media outlet
   [📄 Read the paper](https://arc.aiaa.org/doi/10.2514/1.A36164) | [📰 Space.com coverage](https://www.space.com/may-solar-storm-largest-mass-migration-satellites)| [📰 Space News coverage](https://spacenews.com/geomagnetic-storms-cause-mass-migrations-of-satellites/)  
   > Documented the **largest satellite mass migration in history** during a major geomagnetic storm, exposing vulnerabilities in atmospheric drag forecasting and collision risk assessment.
 
+# Learn more about REACT
+See Chapter 3 of William Parker's PhD Thesis [here](https://drive.google.com/file/d/1r3l7NNDf0QQCEPh8GuSVkVTTUPLwZdP-/view?usp=sharing). 
+
+**Citation:** Parker, W. E. (2025). Satellite drag and sustainable space operations in a dynamic thermosphere (Doctoral dissertation, Massachusetts Institute of Technology).
+
+# Contact
+Contact Will Parker via wparker@mit.edu or will@parker42.com. 
 
