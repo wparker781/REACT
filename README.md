@@ -10,20 +10,10 @@ At its core, REACT applies statistical estimation from historical correlations a
 
 From a scientific perspective, REACT transforms decades of historical TLE data into a high-resolution record of thermospheric density as a function of latitude, longitude, and time. These reconstructions provide unprecedented coverage of the upper atmosphere, supporting studies of solar-terrestrial coupling, greenhouse gas–driven thermospheric cooling, and the impacts of space weather events on the orbital environment. The TLE dataset spans more than 50 years, and thus provides a long-term atmospheric specification for consistent comparison between space weather events across the space age. 
 
-# Key Methods
-**Global Correlation Modeling:** Captures dynamical correlations between satellites, using debris objects as reference “sensors.”
-
-**Gaussian Conditioning:** Produces uncertainty-aware estimates of orbital decay rates and propagations by combining space weather drivers with observed satellite dynamics.
-
-**Maneuver/Anomaly Detection:** Identifies likely maneuvers when satellite dynamics diverge from passive population (i.e. debris) responses.
-
-**Coordinate-Descent Density Reconstruction:** Infers neutral density fields (ρ₀, H, q) directly from TLE-derived orbital decay rates.
-
-
 # Use Cases
-**Transparency in Satellite Operations:** Enables third-party monitoring of maneuvering behavior using publicly available data, increasing trust and accountability in LEO.
-
 **Collision Risk Assessment:** Provides improved capability for satellite tracking and trajectory predictions during geomagnetic storms, reducing false conjunction alerts and unnecessary maneuvers.
+
+**Transparency in Satellite Operations:** Enables third-party monitoring of maneuvering behavior using publicly available data, increasing trust and accountability in LEO.
 
 **Thermosphere Research:** Offers a long-term, spatially resolved dataset for studying space weather impacts, atmospheric tides, and climate-driven density trends.
 
