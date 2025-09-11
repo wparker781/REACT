@@ -29,16 +29,16 @@ From a scientific perspective, REACT transforms decades of historical TLE data i
 
 **Policy and Sustainability:** Supports analyses of orbital carrying capacity by quantifying how drag variability and conjunction rates change with solar cycle conditions.
 
-## REACT in the News
+# REACT in the News
 
 REACT’s insights have been featured in leading journals and major media outlets, highlighting its impact on space sustainability and transparency:
 
 - **Greenhouse Gas–Driven Thermospheric Contraction**  
   *Nature Sustainability* (2025)  
-  [📄 Read the paper](https://www.nature.com/articles/s41893-025-01512-0) | [📰 Forbes coverage](https://www.forbes.com/sites/brucedorminey/2025/03/12/climate-change-is-even-wreaking-havoc-on-satellites-in-low-earth-orbit) | [📰 MIT News coverage](https://news.mit.edu/2025/study-climate-change-will-reduce-number-satellites-safely-orbit-space-0310)  
+  [📄 Read the paper](https://www.nature.com/articles/s41893-025-01512-0) | [📰 Forbes coverage](https://www.forbes.com/sites/brucedorminey/2025/03/12/climate-change-is-even-wreaking-havoc-on-satellites-in-low-earth-orbit) | [📰 MIT News coverage](https://news.mit.edu/2025/study-climate-change-will-reduce-number-satellites-safely-orbit-space-0310) | [Github] (https://github.com/ARCLab-MIT/ghg_kessler_capacity) 
   > CO₂ emissions are shrinking the upper atmosphere, reducing drag and **lowering the long-term satellite carrying capacity of LEO**.
 
-- **☀Gannon Geomagnetic Storm & Satellite Mass Migration**  
+- **Gannon Geomagnetic Storm & Satellite Mass Migration**  
   *Journal of Spacecraft and Rockets* (2024)  
   [📄 Read the paper](https://arc.aiaa.org/doi/10.2514/1.A36164) | [📰 Space.com story](https://www.space.com/may-solar-storm-largest-mass-migration-satellites)| [📰 Space News story]([https://www.space.com/may-solar-storm-largest-mass-migration-satellites?utm_source=chatgpt.com](https://spacenews.com/geomagnetic-storms-cause-mass-migrations-of-satellites/))  
   > Documented the **largest satellite mass migration in history** during a major geomagnetic storm, exposing vulnerabilities in atmospheric drag forecasting and collision risk assessment.
