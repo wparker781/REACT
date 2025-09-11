@@ -1,7 +1,7 @@
 # REACT
 ## Using space debris as a distributed sensor for Earth's upper atmosphere.
 
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/739509c6-06ed-42b6-9544-df11e09aadf6" />
+![210812-nasa-odpo-2x1-mn-0935-a48a1a](https://github.com/user-attachments/assets/04162e51-7b78-40e5-9782-21ceb1b8daef)
 
 The REACT framework (Response Estimation and Analysis using Correlated Trajectories) is an innovative approach to space domain awareness and upper-atmosphere science. It repurposes publicly available satellite trajectory data — specifically Two-Line Elements (TLEs) from the U.S. satellite catalog at [Space-Track.org](https://www.space-track.org/auth/login) — to extract actionable insight into the health and behavior of low Earth orbit (LEO). Instead of treating each satellite as an independent object, REACT models the collective dynamical response of thousands of satellites and debris objects. This approach captures how the population as a whole reacts to natural forces, such as thermospheric density changes during geomagnetic storms, as well as human-driven actions, such as propulsive maneuvers.
 Although TLEs were originally intended to provide near-real-time orbital knowledge for communications and tracking, their historical record across the entire satellite population is a powerful, underused data source. REACT uses this record to uncover patterns in satellite operator behavior—information that is rarely shared publicly—and to map changes in Earth’s upper atmosphere over time, creating a long-term, data-driven view of the thermosphere’s response to space weather.
