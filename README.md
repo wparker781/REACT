@@ -10,9 +10,6 @@ At its core, REACT applies statistical estimation from historical correlations a
 
 From a scientific perspective, REACT transforms decades of historical TLE data into a high-resolution record of thermospheric density as a function of latitude, longitude, and time. These reconstructions provide unprecedented coverage of the upper atmosphere, supporting studies of solar-terrestrial coupling, greenhouse gas–driven thermospheric cooling, and the impacts of space weather events on the orbital environment. The TLE dataset spans more than 50 years, and thus provides a long-term atmospheric specification for consistent comparison between space weather events across the space age. 
 
-![Presentation1](https://github.com/user-attachments/assets/4862eddd-ad26-4328-a7b1-94961c853626)
-
-
 # Key Methods
 **Global Correlation Modeling:** Captures dynamical correlations between satellites, using debris objects as reference “sensors.”
 
