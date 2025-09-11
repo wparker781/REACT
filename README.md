@@ -1,5 +1,5 @@
 # REACT
-## Using space debris as a distributed sensor for Earth's thermosphere.
+## Using space debris as a distributed sensor for Earth's upper atmosphere.
 
 <img width="2368" height="1082" alt="image" src="https://github.com/user-attachments/assets/9729d976-934d-4cc4-bacb-e8a75aa01eee" />
 
