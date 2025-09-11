@@ -28,3 +28,17 @@ From a scientific perspective, REACT transforms decades of historical TLE data i
 **Thermosphere Research:** Offers a long-term, spatially resolved dataset for studying space weather impacts, atmospheric tides, and climate-driven density trends.
 
 **Policy and Sustainability:** Supports analyses of orbital carrying capacity by quantifying how drag variability and conjunction rates change with solar cycle conditions.
+
+## REACT in the News
+
+REACT’s insights have been featured in leading journals and major media outlets, highlighting its impact on space sustainability and transparency:
+
+- **Greenhouse Gas–Driven Thermospheric Contraction**  
+  *Nature Sustainability* (2025)  
+  [📄 Read the paper](https://www.nature.com/articles/s41893-025-01512-0?utm_source=chatgpt.com) | [📰 Forbes coverage](https://www.forbes.com/sites/brucedorminey/2025/03/12/climate-change-is-even-wreaking-havoc-on-satellites-in-low-earth-orbit/?utm_source=chatgpt.com)  
+  > Rising CO₂ is shrinking the upper atmosphere, reducing drag and **lowering the long-term satellite carrying capacity of LEO**.
+
+- **☀Gannon Geomagnetic Storm & Satellite Mass Migration**  
+  *Journal of Spacecraft and Rockets* (2024)  
+  [📄 Read the paper (arXiv)](https://arxiv.org/abs/2406.08617?utm_source=chatgpt.com) | [📰 Space.com story](https://www.space.com/may-solar-storm-largest-mass-migration-satellites?utm_source=chatgpt.com)  
+  > Documented the **largest coordinated satellite maneuvers in history** during a major geomagnetic storm, exposing vulnerabilities in drag forecasting and collision risk assessment.
