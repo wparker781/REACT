@@ -1,7 +1,7 @@
 # REACT
 ## Using space debris as a distributed sensor for Earth's upper atmosphere.
 
-<img width="452" height="340" alt="image" src="https://github.com/user-attachments/assets/e54787ca-17f9-489e-adf0-df16dd31ff26" />
+![Picture1](https://github.com/user-attachments/assets/cb584470-47b6-495d-9364-53d7603f2d59)
 
 <img width="2368" height="1082" alt="image" src="https://github.com/user-attachments/assets/9729d976-934d-4cc4-bacb-e8a75aa01eee" />
 
