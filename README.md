@@ -1,4 +1,4 @@
-# REACT: Repurposing Public Satellite Trajectory Data for Space Safety and Science
+# The REACT Framework: Repurposing Public Satellite Trajectory Data for Space Safety and Upper Atmospheric Science
 
 <img width="2368" height="1082" alt="image" src="https://github.com/user-attachments/assets/9729d976-934d-4cc4-bacb-e8a75aa01eee" />
 
