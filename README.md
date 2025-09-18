@@ -44,3 +44,5 @@ See Chapter 3 of William Parker's PhD Thesis [here](https://drive.google.com/fil
 # Contact
 Contact Will Parker via wparker@mit.edu or will@parker42.com. 
 
+# Acknowledgments
+Research was sponsored by the Department of the Air Force Artificial Intelligence Accelerator and was accomplished under Cooperative Agreement Number FA8750-19-2-1000. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the official policies, either expressed or implied, of the Department of the Air Force or the U.S. Government. The U.S. Government is authorized to reproduce and distribute reprints for Government purposes notwithstanding any copyright notation herein.
